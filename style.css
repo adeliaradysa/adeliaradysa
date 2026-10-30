@@ -355,7 +355,6 @@ h2 em {
   margin-top: 45px; 
   position: relative; }
 .page-hero-rule:after { 
-  content: "✳"; 
   position: absolute; 
   right: 0; 
   top: -20px; 
